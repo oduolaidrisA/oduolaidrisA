@@ -7,9 +7,9 @@ A cheap and promising alternative is to make machine learning models physics awa
 
 I am particularly interested in overcoming some of the major challenges this exciting area still faces:
 
-1)Establishing robust theoretical guarantees.
-2)Ensuring scalability to large and complex problems.
-3)Improving computational efficiency to make these methods accessible in practice.
+- Establishing robust theoretical guarantees.
+- Ensuring scalability to large and complex problems.
+- Improving computational efficiency to make these methods accessible in practice.
 
 I am always open to conversations, collaborations, and new opportunities in scientific and industrial settings.(idrisoduola47@gmail.com)
 
